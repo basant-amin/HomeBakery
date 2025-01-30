@@ -56,6 +56,6 @@ Welcome to **Home Bakery App**! 🍪 This is a beautifully designed mobile appli
 
 📝 This project is licensed under the **MIT License**se\*\*.
 
-💡 *Happy Baking!* 🍩
+💡 *Home Bakery!* 🍩
 
 all right reserved by apple academy
