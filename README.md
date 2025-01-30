@@ -46,11 +46,7 @@ Welcome to **Home Bakery App**! 🍪 This is a beautifully designed mobile appli
 
 ---
 
-🤝 Contributing
 
-🚀 If you want to contribute, feel free to **fork th** **repository** and submit a **pull request**.
-
----
 
  📜 License
 
