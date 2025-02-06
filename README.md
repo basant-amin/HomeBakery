@@ -50,8 +50,8 @@ Welcome to **Home Bakery App**! 🍪 This is a beautifully designed mobile appli
 
  📜 License
 
-📝 This project is licensed under the **MIT License**se\*\*.
+📝 This project is Developed by Basant Amin, with UI design by Ali Boholaiqa. It is intended for personal use only and may not be sold, redistributed, or shared publicly. All rights reserved
 
 💡 *Home Bakery!* 🍩
 
-all right reserved by Basant amin
+
