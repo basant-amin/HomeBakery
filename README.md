@@ -54,4 +54,4 @@ Welcome to **Home Bakery App**! 🍪 This is a beautifully designed mobile appli
 
 💡 *Home Bakery!* 🍩
 
-all right reserved by apple academy
+all right reserved by Basant amin
